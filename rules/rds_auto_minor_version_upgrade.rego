@@ -3,8 +3,8 @@ package rules.rds_input.auto_minor_version_upgrade
 __rego__metadoc__ := {
   "custom": {
     "controls": {
-      "AWSDBBENCH2": [
-        "AWSDBBENCH2_N"
+      "RelationalDB": [
+        "RelationalDB_N"
       ]
     },
     "severity": "Medium"

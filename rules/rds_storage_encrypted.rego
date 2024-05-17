@@ -3,8 +3,8 @@ package rules.rds_storage_encrypted
 __rego__metadoc__ := {
   "custom": {
     "controls": {
-      "9f20c948-2648-4aaf-8e32-25011dafde32": [
-        "9f20c948-2648-4aaf-8e32-25011dafde32_3.1"
+      "RelationalDB": [
+        "RelationalDB_F"
       ]
     },
     "severity": "High"

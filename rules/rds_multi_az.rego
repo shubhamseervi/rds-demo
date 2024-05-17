@@ -3,8 +3,8 @@ package rules.multi_az
 __rego__metadoc__ := {
    "custom": {
     "controls": {
-      "AWSDBBENCH2": [
-        "AWSDBBENCH2_H"
+      "RelationalDB": [
+        "RelationalDB_H"
       ]
     },
     "severity": "Medium"
